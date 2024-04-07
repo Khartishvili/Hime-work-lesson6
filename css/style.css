@@ -1,0 +1,260 @@
+.header-conteiner {
+    width: 1336px;
+    height: 178px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    text-align: center;
+}
+.header-title1{
+    font-size: 16px;
+    line-height: 26px;
+    color: #282828;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 353;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
+}
+.header-title2 {
+    font-size: 54px;
+    line-height: 62px;
+    color: #282828;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+}
+.header-p {
+    width: 760px;
+    height: 70px;
+    margin-left: 288px;
+    font-size: 20px;
+    line-height: 35px;
+    color: #5F6980;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+}
+.mean-div {
+    width: 1336px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.child-div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 908px;
+    align-content: space-between;
+    margin-top: 48px;
+}
+.block {
+    width: 310px;
+    height: 430px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 16px;
+    padding-left: 0px;
+    background-color: 
+    #FFFFFF;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #EAECF0;
+}
+.div-info {
+    width: 278px;
+    height: 108px;
+    gap: 8px;
+    margin-top: 16px;
+    margin-right: 16px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+}
+.name {
+    font-size: 16px;
+    line-height: 30px;
+    color: #282828;
+}
+.name2 {
+    font-size: 14px;
+    line-height: 22px;
+    color: #3E3E59;
+}
+.block-p {
+    margin-top: 8px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #5F6980; 
+}
+.footer-div {
+    margin-bottom: 16px;
+    margin-left: 16px;
+}
+.icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 100px;
+    background-color: #F2F4F7;
+}
+.ins {
+    margin-right: 16px;
+    margin-left: 16px;
+}
+.image {
+    margin-top: 48px;
+}
+.footer-div-sec {
+    background-color: #53535354;
+    padding-top: 108px;
+    height: 500px;
+    margin-top: 48px;
+}
+.main-div {
+    width: 1306px;
+    height: 223px;
+    display: flex;
+    margin: auto;
+    margin-bottom: 183px;
+}
+.div1 {
+    width: 318.05px;
+    height: 221px;
+    margin-right: 144.95px;
+    margin-right: 50px;
+}
+.logo {
+    width: 100px;
+    height: 64px;
+
+}
+.footer-p {
+    width: 306.05px;
+    height: 73px;
+    line-height: 16.94px;
+    font-size: 14px;
+    margin-top: 32px;
+    padding-left: 12px;
+    color: #535353;
+}
+.footer-soc {
+    margin-top: 28px;
+    padding-left: 12px;
+
+}
+.div2 {
+    width: 136px;
+    height: 223px;
+    margin-right: 254px;
+
+}
+.div2-title {
+    width: 136px;
+    height: 24px;
+    font-size: 20px;
+    line-height: 24.2px;
+    color: #1E1E1E;
+    
+}
+.div2-p {
+    margin-top: 71px;
+    font-size: 14px;
+    line-height: 16.92px;
+    color: #535353;
+}
+.div-about {
+  margin-top: 15px;
+  color: #535353;
+}
+.div-touch {
+    width: 108px;
+    height: 48px;
+    margin-top: 15px; 
+}
+.div2 {
+    width: 136px;
+    height: 24px;
+}
+.div2h {
+    width: 136px;
+    height: 24px;
+    font-size: 20px;
+    line-height: 24.2px;
+    margin-top: 71px;
+}
+
+.div2p {
+    width: 108px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 16.95px;
+    color: #535353;
+}
+.div3 {
+    width: 199px;
+    height: 223px;
+    margin-right: 147px;
+}
+.div3h {
+    width: 85px;
+    height: 24px;
+    font-size: 20px;
+    line-height: 24.2px;
+    color: #1E1E1E;
+    margin-bottom: 55px;
+}
+.div3p {
+    width: 199px;
+    height: 48px;
+}
+.div3paragraf {
+    font-size: 14px;
+    line-height: 16.94px;
+    color: #535353;
+}
+.home {
+    margin-top: 71px;
+   
+}
+.web {
+    font-size: 20px;
+    line-height: 24.2px;
+    color: 
+    #1E1E1E;
+   
+}
+.h {
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+.div4 {
+    width: 107px;
+    height: 127.45px;
+}
+.div4h {
+    font-size: 20px;
+    line-height: 24.2px;
+    color: #1E1E1E;
+}
+.div4image {
+    margin-top: 58.45px;
+    margin-right: 27px;
+}
+.style {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+}
+
